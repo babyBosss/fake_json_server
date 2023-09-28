@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "description": "description 1",
+    "articul": "12345",
+    "price": 100,
+    "sale_price": 90,
+    "composition": "Sostav 1",
+    "photos": []
+  },  
+  {
+    "id": 2,
+    "name": "Product 2",
+    "description": "description 2",
+    "articul": "12345",
+    "price": 110,
+    "sale_price": 99,
+    "composition": "Sostav 2",
+    "photos": []
+  }
+]
